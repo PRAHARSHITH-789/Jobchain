@@ -1,0 +1,81 @@
+[
+    {
+        "id": 1,
+        "first_name": "Germain",
+        "last_name": "Boag",
+        "email": "gboag0@japanpost.jp",
+        "gender": "Male",
+        "job_tittle": "Librarian"
+    },
+    {
+        "id": 2,
+        "first_name": "Merci",
+        "last_name": "Andrysek",
+        "email": "mandrysek1@tmall.com",
+        "gender": "Female",
+        "job_tittle": "Clinical Specialist"
+    },
+    {
+        "id": 3,
+        "first_name": "Lesley",
+        "last_name": "McComb",
+        "email": "lmccomb2@about.me",
+        "gender": "Female",
+        "job_tittle": "Compensation Analyst"
+    },
+    {
+        "id": 4,
+        "first_name": "Ellsworth",
+        "last_name": "Willcox",
+        "email": "ewillcox3@dailymail.co.uk",
+        "gender": "Genderfluid",
+        "job_tittle": "VP Accounting"
+    },
+    {
+        "id": 5,
+        "first_name": "Annelise",
+        "last_name": "Pogue",
+        "email": "apogue4@hao123.com",
+        "gender": "Female",
+        "job_tittle": "Civil Engineer"
+    },
+    {
+        "id": 6,
+        "first_name": "Israel",
+        "last_name": "Ausello",
+        "email": "iausello5@wix.com",
+        "gender": "Male",
+        "job_tittle": "Assistant Professor"
+    },
+    {
+        "id": 7,
+        "first_name": "Casandra",
+        "last_name": "Steeples",
+        "email": "csteeples6@fda.gov",
+        "gender": "Female",
+        "job_tittle": "Software Engineer II"
+    },
+    {
+        "id": 8,
+        "first_name": "Sydel",
+        "last_name": "Bauld",
+        "email": "sbauld7@goodreads.com",
+        "gender": "Female",
+        "job_tittle": "Recruiting Manager"
+    },
+    {
+        "id": 9,
+        "first_name": "Rosalinde",
+        "last_name": "Jeafferson",
+        "email": "rjeafferson8@go.com",
+        "gender": "Female",
+        "job_tittle": "Analyst Programmer"
+    },
+    {
+        "id": 10,
+        "first_name": "Griswold",
+        "last_name": "Woodwin",
+        "email": "gwoodwin9@wix.com",
+        "gender": "Male",
+        "job_tittle": "Mechanical Systems Engineer"
+    }]
